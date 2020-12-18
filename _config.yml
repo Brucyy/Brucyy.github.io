@@ -17,7 +17,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "Brucyy's Statistics Note"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Brucyy"
@@ -42,7 +42,7 @@ comments:
     num_posts            : # 5 (default)
     colorscheme          : # "light" (default), "dark"
   utterances:
-    theme                : # "github-light" (default), "github-dark"
+    theme                : "github-dark" # "github-light" (default), "github-dark"
     issue_term           : # "pathname" (default)
   staticman:
     branch               : # "master"
@@ -94,11 +94,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Bruce Kim"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  bio              : "I am an Data Scientist."
+  location         : "Seoul"
+  email            : "beyondthe7@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
